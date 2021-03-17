@@ -25,3 +25,6 @@ def A(a=1):
 	print(a)
 	return True
 
+def B(b=0):
+	print(b+=1)
+
